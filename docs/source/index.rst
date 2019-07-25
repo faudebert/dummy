@@ -10,6 +10,8 @@ Welcome to reStructuredText Examples's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   arch/index
+
 
 
 Indices and tables
